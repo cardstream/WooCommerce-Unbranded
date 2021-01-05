@@ -31,7 +31,8 @@ In `Woocommerce-Payment-Network.php` change the following to match your brand
 
 1. Line 7 to reflect your brand
 2. Line 8 to reflect your own domain
-3. Line line 12 to reflect your support details
+3. Line 12 to reflect your support details
+4. Line 74 replace PaymentNetwork in the admin_url with your $gateway (as below, with no spaces)
 
 In file `includes/class-wc-payment-network.php` change the following to match that you've been provided:
 
