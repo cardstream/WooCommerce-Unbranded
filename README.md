@@ -20,7 +20,7 @@ This Woo-Commerce module provides an easy method to integrate with the payment g
     - Woo-commerce Wordpress extension
     - The 'bcmath' php extension module: https://www.php.net/manual/en/book.bc.php
 
-> Please note that we can only offer support for the Module itself. While every effort has been made to ensure the payment module is complete and bug free, we cannot guarentee normal functionality if unsupported changes are made.
+> Please note that we can only offer support for the Module itself. While every effort has been made to ensure the payment module is complete and bug free, we cannot guarantee normal functionality if unsupported changes are made.
 
 # Rebranding
 
@@ -56,12 +56,12 @@ When downloading as a zip file, you can right-click and rename to remove the `Un
 
 1. Unzip and upload the plugin folder to your /wp-content/plugins/ directory or navigate to Plugins -> add new plugin -> upload plugin and then drop the zip file where specified
 2. Activate the plugin through the Plugins menu in WordPress
-3. Go to WooCommerce -> Plugins -> Payment-Network and click on the settings button.
-4. Enter your MerchantID / Secretkey and update the customer/country code.
-5. If you own a custom form on your gateway, enter the full URL to it in the custom form box (Including trailing /).
-6. Selects what type of integration you would like to use.
-7. Set the Enabled option to true.
-8. Click 'Save Changes'.
+3. Go to WooCommerce -> Plugins -> Payment-Network and click on the 'settings' button
+4. Enter your MerchantID / Secretkey and update the customer/country code
+5. If you own a custom form on your gateway, enter the full URL to it in the custom form box (Including trailing /)
+6. Selects what type of integration you would like to use
+7. Set the Enabled option to true
+8. Click 'Save Changes'
 
 License
 ----
