@@ -20,7 +20,7 @@ This Woo-Commerce module provides an easy method to integrate with the payment g
     - Woo-commerce Wordpress extension
     - The 'bcmath' php extension module: https://www.php.net/manual/en/book.bc.php
 
-> Please note that we can only offer support for the Module itself. While every effort has been made to ensure the payment module is complete and bug free, we cannot guarantee normal functionality if unsupported changes are made.
+> Please note that we can only offer support for the module itself. While every effort has been made to ensure the payment module is complete and bug free, we cannot guarantee normal functionality if unsupported changes are made.
 
 # Rebranding
 
