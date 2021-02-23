@@ -33,7 +33,7 @@ In `Woocommerce-Payment-Network.php` change the following to match your brand
 3. Line 12 to reflect your support details
 4. Line 74 replace PaymentNetwork in the admin_url with your $gateway (as below, with no spaces)
 
-In file `includes/class-wc-payment-network.php` change the following to match that you've been provided:
+In file `includes/class-wc-payment-network.php` change the following URL's to match that you've been provided:
 
 ```
     const MMS_URL                  = 'https://example.domain.com';
